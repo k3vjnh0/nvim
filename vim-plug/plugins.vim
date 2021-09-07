@@ -57,4 +57,7 @@ call plug#begin('~/.config/nvim/autoload/plugged')
     " Snippets with CoC
     Plug 'honza/vim-snippets'
 
+    " Vim Commentary
+    Plug 'tpope/vim-commentary'
+
 call plug#end()
