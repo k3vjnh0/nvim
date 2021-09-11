@@ -11,3 +11,4 @@ source $HOME/.config/nvim/plug-config/vimspector.vim
 source $HOME/.config/nvim/plug-config/nerdtree.vim
 source $HOME/.config/nvim/plug-config/start-screen.vim
 source $HOME/.config/nvim/plug-config/snippet.vim
+source $HOME/.config/nvim/plug-config/ale.vim

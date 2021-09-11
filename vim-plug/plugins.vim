@@ -60,4 +60,11 @@ call plug#begin('~/.config/nvim/autoload/plugged')
     " Vim Commentary
     Plug 'tpope/vim-commentary'
 
+    " Ale
+    Plug 'dense-analysis/ale'
+
+    " Python bundles
+    Plug 'davidhalter/jedi-vim'
+    Plug 'raimon49/requirements.txt.vim', {'for': 'requirements'}
+
 call plug#end()
